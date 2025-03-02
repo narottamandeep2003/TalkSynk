@@ -15,6 +15,8 @@ Welcome to **TalkSynk**, a simple command-line chat application built using **Ka
 
 ---
 
+![image](https://github.com/user-attachments/assets/302e0481-d72a-4903-9343-7fc6d4099625)
+
 ## Installation
 
 ### Prerequisites
