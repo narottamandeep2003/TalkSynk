@@ -1,0 +1,23 @@
+{
+  "name": "talksynk",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "bin": {
+    "talksynk": "app.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^13.1.0",
+    "figlet": "^1.8.0",
+    "inquirer": "^12.4.2",
+    "kafkajs": "^2.2.4",
+    "talksynk": "file:"
+  }
+}
