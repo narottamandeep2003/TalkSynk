@@ -27,7 +27,7 @@ Welcome to **TalkSynk**, a simple command-line chat application built using **Ka
 1.  Clone this repository to your local machine:
 
     ```bash
-    git clone [https://github.com/narottamandeep2003/TalkSynk.git](https://github.com/narottamandeep2003/TalkSynk.git)
+    git clone https://github.com/narottamandeep2003/TalkSynk.git
     cd talksynk
     ```
 
